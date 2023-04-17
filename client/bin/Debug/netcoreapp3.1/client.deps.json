@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "client/1.0.0": {
+        "dependencies": {
+          "popup": "1.0.0"
+        },
+        "runtime": {
+          "client.dll": {}
+        }
+      },
+      "popup/1.0.0": {
+        "runtime": {
+          "popup.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "popup/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
